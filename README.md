@@ -29,8 +29,11 @@ API Gateway  ──►  Lambda (Webhook Processor)
                                  │
                                  ▼
                         ECS Fargate (Redeploy)
-```
 
+
+```
+<img width="1366" height="499" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/fdee1d92-dd48-45c2-8d1b-ab3bbd04a94f" />
+<img width="1366" height="480" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/cbfc1361-51cc-4837-9a1d-190a37b209be" />
 ---
 
 ## Technology Stack
